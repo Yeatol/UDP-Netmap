@@ -1,6 +1,6 @@
-# Test Environment 
+# 测试环境
 * FreeBSD 11.1
 * Intel X520 SR-2
 
-# Test Machine 
+# 测试机器
 ![Image text](https://raw.githubusercontent.com/Yeatol/UDP-Netmap/master/Test-Machine.png)
